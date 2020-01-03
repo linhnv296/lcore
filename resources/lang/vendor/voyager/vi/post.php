@@ -1,0 +1,22 @@
+<?php
+return [
+    'additional_fields'=> 'Trường Bổ Sung',
+    'category'         => 'Danh Mục Bài Viết',
+    'content'          => 'Nội Dung Bài Viết',
+    'details'          => 'Chi Tiết Bài Viết',
+    'excerpt'          => 'Excerpt <small>Small description of this post</small>',
+    'image'            => 'Post Image',
+    'meta_description' => 'Meta Description',
+    'meta_keywords'    => 'Meta Keywords',
+    'new'              => 'Tạo Mới Bài Viết',
+    'seo_content'      => 'Nội Dung SEO',
+    'seo_title'        => 'Tiêu Đề SEO',
+    'slug'             => 'URL slug',
+    'status'           => 'Trạng Thái Bài Viết',
+    'status_draft'     => 'Nháp',
+    'status_pending'   => 'Chờ Xử Lý',
+    'status_published' => 'Đã Công Khai',
+    'title'            => 'Tiêu Đề Bài Viết',
+    'title_sub'        => 'Tiêu Đề Cho Bài Viết Của Bạn',
+    'update'           => 'Cập Nhật Bài Viết',
+];
